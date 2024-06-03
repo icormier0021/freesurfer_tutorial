@@ -51,7 +51,7 @@ Ensure that you have the necessary input data in the data directory before runni
 Contributions are welcome! If you have improvements or additional scripts that complement the FreeSurfer tutorial, feel free to open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.MD) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 FreeSurfer development team for their excellent software and documentation.
