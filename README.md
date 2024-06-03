@@ -35,10 +35,10 @@ Follow the instructions on the FreeSurfer installation page to set up your envir
 
 Navigate to the scripts directory and run the provided scripts as needed. Each script includes comments and instructions to guide you through the process.
 
-##Usage
+## Usage
 This repository is my own personal repository structured to follow the steps outlined in the FreeSurfer tutorial. Each script corresponds to a specific section of the tutorial and is meant to be run sequentially. Refer to the comments within each script for detailed instructions.
 
-Example
+### Example
 Here is a basic example of how to run a script from the scripts directory:
 
 sh
@@ -47,12 +47,12 @@ cd scripts
 ./run_freesurfer_script.sh
 Ensure that you have the necessary input data in the data directory before running any scripts.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have improvements or additional scripts that complement the FreeSurfer tutorial, feel free to open a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.MD) file for details.
 
-Acknowledgments
+## Acknowledgments
 FreeSurfer development team for their excellent software and documentation.
 The neuroimaging community for their support and contributions.
